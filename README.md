@@ -17,7 +17,7 @@ Kodi (v17 and newer) allows to change the playback speed from 0.8x to 1.5x. For 
 4. Exit Kodi - because next you need to create keymap file and Kodi reads it only during start.
 5. Copy [customkeymap.xml](userdata/keymaps/customkeymap.xml) to kodi settings folder _.kodi/userdata/keymaps/_ ([Source](https://www.reddit.com/r/kodi/comments/htii7m/comment/fyhz6kk/?utm_source=share&utm_medium=web2x&context=3))
 6. Start Kodi. 
-7. Long press button 10 to decrease and button 7 to increase playback speed.
+7. While playback in fullscreen, long press button 10 to decrease and button 7 to increase playback speed.
 
    ![Remote](img/kax7xdab.bmp)
 
