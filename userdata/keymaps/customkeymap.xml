@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <FullscreenVideo>
+    <keyboard>
+      <rewind mod="longpress">PlayerControl(tempodown)</rewind>
+      <fastforward mod="longpress">PlayerControl(tempoup)</fastforward>  
+    </keyboard>
+  </FullscreenVideo>
+</keymap>
